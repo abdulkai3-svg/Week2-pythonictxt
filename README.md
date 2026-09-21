@@ -27,4 +27,3 @@ Original code had everything crammed into one function with names like the_file 
 - unpythonic_analyzer.py — the original starter code
 - text_analyzer.py — my refactored version
 - sample.txt — text file I used to test it
-- README.md — this
